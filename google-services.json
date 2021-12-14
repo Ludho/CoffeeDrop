@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559347140580",
+    "firebase_url": "https://coffeedrop-df2d1.firebaseio.com",
+    "project_id": "coffeedrop-df2d1",
+    "storage_bucket": "coffeedrop-df2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559347140580:android:be2d1839d60ec4b3c9e9f1",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559347140580-7u0id3t53r599j2jja02nl44dt1bmgji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_pum1PzhgOg2AxOWn7v7bhBIHhQ8HsQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559347140580-7u0id3t53r599j2jja02nl44dt1bmgji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

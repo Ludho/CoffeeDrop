@@ -1,0 +1,13 @@
+export default data = [
+   {
+      username:"paultho",
+      mail:"paultho@gmail.com",
+      date_inscription:"11/11/2020"
+   },
+
+   {
+     username:"sasamory",
+     mail:"sasamory@gmail.com",
+     date_inscription:"11/11/2020"
+   }
+]
